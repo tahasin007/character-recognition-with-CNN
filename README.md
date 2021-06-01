@@ -1,0 +1,1 @@
+Bengali character and letter recognition with Convolutional Neural Network (CNN). Data was selected from "MatriVasha" the largest dataset of handwritten Bengali characters. 15000 images of 50 Bengali alphabets and digits were taken form this dataset for training and testing CNN model. 90% train accuracy and 69% validation accuracy was achieved.
